@@ -1,0 +1,10 @@
+*.mp4
+*.mkv
+*.mov
+*.ts
+*.mp3
+*.wav
+*.aac
+
+Movie_app/txt/*.txt
+temp/
